@@ -19,13 +19,21 @@ This repository serves as a consolidated resource for the assignments completed 
 The assignments are organized into folders, each representing a specific module or week. Inside each folder, you'll find individual assignments along with any related resources or documentation.
 
 - **Week 1: Introduction to JavaScript**
-  - 01-js
-    - Easy
-    - Medium
-    - Hard
-  - offline-class-1
-    - level-1 (String, Number, Array)
-    - level-2 (Class, Date, JSON, Math, Object)
+
+  - [01-js]()
+    - [Easy]()
+    - [Medium]()
+    - [Hard]()
+  - [offline-class-1]()
+    - [level-1 (String, Number, Array)]()
+    - [level-2-(Class, Date, JSON, Math, Object)]()
+
+  **Week 2: Async JavaScript and node**
+
+  - [01-async-js]()
+    - [Easy]()
+    - [Medium]()
+    - [Hard]()
 
 ## Usage
 
