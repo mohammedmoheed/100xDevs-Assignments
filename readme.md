@@ -31,9 +31,15 @@ The assignments are organized into folders, each representing a specific module 
   **Week 2: Async JavaScript and node**
 
   - [01-async-js]()
+
     - [Easy]()
     - [Medium]()
     - [Hard]()
+
+  - [02-nodejs]()
+    - [fileServer]()
+    - [todoServer]()
+    - [todoServerWithFiles]()
 
 ## Usage
 
