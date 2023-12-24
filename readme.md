@@ -37,9 +37,13 @@ The assignments are organized into folders, each representing a specific module 
     - [Hard]()
 
   - [02-nodejs]()
+
     - [fileServer]()
     - [todoServer]()
     - [todoServerWithFiles]()
+
+  - [03-middleWare DB Auth]()
+    - [01-middlewares]()
 
 ## Usage
 
